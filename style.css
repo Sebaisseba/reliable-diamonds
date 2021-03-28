@@ -1,0 +1,12 @@
+body {background-color:black;}
+h1{color:grey; font-family:Verdana;}
+
+.maindiv{
+background-color:white;font-color:black;width:800px;padding:20px;
+border-radius:25px;text-align:center;
+}
+.footer{
+    color:white;text-align:left;
+}
+
+
